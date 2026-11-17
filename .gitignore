@@ -1,0 +1,9 @@
+# Excluir capas raster pesadas y archivos temporales de R
+*.tif
+*.tiff
+*.asc
+*.grd
+*.gri
+.RData
+.Rhistory
+.Rproj.user/
